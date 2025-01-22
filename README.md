@@ -1,1 +1,1 @@
-# rool-a-dice
+# roll-a-dice
